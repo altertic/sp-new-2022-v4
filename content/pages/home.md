@@ -1,11 +1,11 @@
 ---
 template: HomePage
 slug: ""
-title: Sport & Collection
-edition: 28ème
-featuredImage: https://ucarecdn.com/c4b8fd06-c81a-40d3-8815-cd1df5914e52/
-subtitle: 500 FERRARI CONTRE LE CANCER
-dates: 2 - 3 - 4 - 5 JUIN 2022
+title: .
+edition: .
+featuredImage: https://ucarecdn.com/86f51039-d22c-4abf-95d6-16551815f440/-/preview/-/enhance/56/
+subtitle: ""
+dates: .
 meta:
   description: Le site officiel de Sport et Collection. La 28ème édition de «Sport
     &amp; Collection - 500 Ferrari contre le cancer» aura lieu les 2, 3, 4 et 5
@@ -13,6 +13,8 @@ meta:
   title: Sport et Collection - 500 Ferrari Contre le cancer - Le site Officiel
   noindex: true
 ---
+# 28ème Sport & Collection « 500 Ferrari contre le cancer »
+
 **Sport & Collection « 500 Ferrari contre le cancer »** est un événement caritatif qui a lieu chaque année, depuis sa création en 1995, le premier week‐end de juin, du jeudi (journée privée) au dimanche (3 jours ouverts au public).
 
 Organisé par des bénévoles regroupés en association Loi 1901, Sport & Collection « 500 Ferrari contre le cancer » est animé par une passion commune pour les Ferrari et, plus largement, par le sport automobile, les véhicules historiques de collection et les voitures de prestige, d'hier et d'aujourd'hui.

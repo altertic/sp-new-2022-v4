@@ -205,11 +205,11 @@ collections: # A list of collections the CMS should be able to edit
               default: HomePage,
             }
           - { label: Slug, name: slug, widget: hidden, default: '' }
-          - { label: Title, name: title, widget: string, default: '', required: false }
-          - { label: Edition, name: edition, widget: string, default: '', required: false }
+          - { label: Title, name: title, widget: string, required: false }
+          - { label: Edition, name: edition, widget: string, required: false }
           - { label: Featured Image, name: featuredImage, widget: image }
           - { label: Subtitle, name: subtitle, widget: markdown, required: false }
-          - { label: Dates, name: dates, widget: string, default: '', required: false }
+          - { label: Dates, name: dates, widget: string, required: false }
           - { label: Body, name: body, widget: markdown }
           - label: 'Accordion'
             name: 'accordion'

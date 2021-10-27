@@ -6,11 +6,13 @@ import { ChevronLeft } from 'react-feather'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import './SinglePost.css'
+import Gallery from '../components/Gallery'
 
 export const SinglePostTemplate = ({
   title,
   date,
   body,
+  gallery,
   nextPostURL,
   prevPostURL,
   categories = []
@@ -23,7 +25,7 @@ export const SinglePostTemplate = ({
     >
       <div className="container skinny">
         <Link className="SinglePost--BackButton" to="/blog/">
-          <ChevronLeft /> BACK
+          <ChevronLeft /> RETOUR
         </Link>
         <div className="SinglePost--Content relative">
           <div className="SinglePost--Meta">
@@ -62,6 +64,13 @@ export const SinglePostTemplate = ({
           <div className="SinglePost--InnerContent">
             <Content source={body} />
           </div>
+
+          <section className="section">
+            <div className="container">
+              <h2>Notre Sélection de Photos</h2>
+              <Gallery images={gallery} />
+            </div>
+          </section>
 
           <div className="SinglePost--Pagination">
             {prevPostURL && (
@@ -116,6 +125,7 @@ export const pageQuery = graphql`
   query SinglePost($id: String!) {
     post: markdownRemark(id: { eq: $id }) {
       ...Meta
+      ...Gallery
       html
       id
       frontmatter {

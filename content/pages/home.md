@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: Sport & Collection
-edition: 28ème
+edition: 28<sup>ème</sup>
 featuredImage: https://ucarecdn.com/a7c48604-1631-497d-b539-e0708dcf044f/-/preview/-/enhance/51/
 subtitle: |-
   500 FERRARI CONTRE LE CANCER

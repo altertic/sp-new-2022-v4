@@ -39,8 +39,8 @@ const PageHeader = ({
 
 PageHeader.propTypes = {
   title: PropTypes.string,
-  edition: PropTypes.string
-  subtitle: PropTypes.string
+  edition: PropTypes.string,
+  subtitle: PropTypes.string,
   dates: PropTypes.string
 }
 

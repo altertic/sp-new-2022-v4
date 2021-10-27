@@ -3,7 +3,7 @@ template: HomePage
 slug: ""
 title: Sport & Collection
 edition: 28ème
-featuredImage: https://ucarecdn.com/c6ba2028-841e-4ff5-bc93-48419ca44545/
+featuredImage: https://ucarecdn.com/c4b8fd06-c81a-40d3-8815-cd1df5914e52/
 subtitle: 500 FERRARI CONTRE LE CANCER
 dates: 2 - 3 - 4 - 5 JUIN 2022
 meta:

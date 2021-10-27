@@ -10,16 +10,30 @@
 
 .PageHeader-large {
   padding: 20rem 0;
+  text-align: center;
 }
 
 .PageHeader--Title {
   font-size: 6rem;
   margin-bottom: 0;
+  color: #24255d;
 }
 
 .PageHeader--Subtitle {
   font-weight: 400;
-  font-size: 1.8rem;
+  font-size: 3rem;
+  color: #e2001a;
+}
+
+.PageHeader--Edition {
+  font-size: 4rem;
+  margin-bottom: 0;
+  color: #e2001a;
+}
+
+.PageHeader--Dates {
+  font-size: 4rem;
+  margin-bottom: 0;
 }
 
 .PageHeader .container {

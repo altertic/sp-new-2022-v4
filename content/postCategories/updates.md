@@ -1,7 +1,6 @@
 ---
 template: BlogIndex
-title: Updates
-subtitle: ''
-featuredImage: 'https://ucarecdn.com/83a3c73d-f234-4086-9fad-cee3a9626230/'
+title: Plateaux de Démonstrations
+subtitle: ""
+featuredImage: https://ucarecdn.com/fee7b667-2fe5-4642-a0dd-892c1bd35692/
 ---
-

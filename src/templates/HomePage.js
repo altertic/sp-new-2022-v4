@@ -6,12 +6,14 @@ import Content from '../components/Content'
 import Layout from '../components/Layout'
 
 // Export Template for use in CMS preview
-export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
+export const HomePageTemplate = ({ title, edition, subtitle, featuredImage, dates, body }) => (
   <main className="Home">
     <PageHeader
       large
       title={title}
+      edition={edition}
       subtitle={subtitle}
+      dates={dates}
       backgroundImage={featuredImage}
     />
 
@@ -43,7 +45,9 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+        edition
         subtitle
+        dates
         featuredImage
       }
     }

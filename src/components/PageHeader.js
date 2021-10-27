@@ -27,11 +27,12 @@ const PageHeader = ({
         />
       )}
       <div className="container relative">
+        <span className="PageHeader--Edition">{edition}</span>
         <span className="PageHeader--Title">{title}</span>
         {subtitle && (
           <Content className="PageHeader--Subtitle" src={subtitle} />
         )}
-        <span className="PageHeader--Title">{dates}</span>
+        <span className="PageHeader--Dates">{dates}</span>
       </div>
     </div>
   )

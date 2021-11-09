@@ -306,12 +306,12 @@ collections: # A list of collections the CMS should be able to edit
       - { label: Excerpt, name: excerpt, widget: text }
       - { label: Content, name: body, widget: markdown }
       - label: 'Gallery'
-            name: 'gallery'
-            widget: 'list'
-            fields:
-              - { name: image, label: Image, widget: image }
-              - { name: alt, label: Alt, widget: string }
-              - { name: title, label: Title, widget: string, required: false }
+        name: 'gallery'
+        widget: 'list'
+        fields:
+            - { name: image, label: Image, widget: image }
+            - { name: alt, label: Alt, widget: string }
+            - { name: title, label: Title, widget: string, required: false }
       - label: 'Categories'
         name: 'categories'
         widget: 'list'

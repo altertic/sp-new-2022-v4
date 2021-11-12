@@ -1,11 +1,11 @@
 ---
 template: HomePage
 slug: ""
-title: .
-edition: .
-featuredImage: https://ucarecdn.com/86f51039-d22c-4abf-95d6-16551815f440/-/preview/-/enhance/56/
-subtitle: ""
-dates: .
+title: Sport & Collection
+edition: 28^ème^
+featuredImage: https://ucarecdn.com/d7114dd9-58af-460c-9476-df3303fd97c0/-/preview/-/enhance/50/
+subtitle: « 500 Ferrari contre le cancer »
+dates: 28^ème^
 meta:
   description: Le site officiel de Sport et Collection. La 28ème édition de «Sport
     &amp; Collection - 500 Ferrari contre le cancer» aura lieu les 2, 3, 4 et 5

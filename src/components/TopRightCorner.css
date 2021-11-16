@@ -1,36 +1,52 @@
-.GithubCorner {
+.svg-icon {
+  width: 1em;
+  height: 1em;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+  fill: #c69f61;
+}
+
+.svg-icon circle {
+  stroke: #c69f61;
+  stroke-width: 1;
+}
+
+.TopRightCorner {
   position: fixed;
   top: 0;
   right: 0;
   z-index: 3;
 }
-.GithubCorner svg {
+.TopRightCorner svg {
   color: #fff;
   border: 0;
   max-width: 6rem;
   max-height: 6rem;
 }
 
-.GithubCorner .octo-arm {
+.TopRightCorner .svg-icon {
   transform-origin: 130px 106px;
 }
 
-.GithubCorner:hover .octo-arm {
+.TopRightCorner:hover .svg-icon {
   animation: octocat-wave 560ms ease-in-out;
 }
 
 @media (max-width: 600px) {
-  .GithubCorner {
+  .TopRightCorner {
     position: absolute;
     top: 6rem;
     z-index: 1;
   }
 
-  .GithubCorner:hover .octo-arm {
+  .TopRightCorner:hover .svg-icon {
     animation: none;
   }
 
-  .GithubCorner .octo-arm {
+  .TopRightCorner .svg-icon {
     animation: octocat-wave 560ms ease-in-out;
   }
 }

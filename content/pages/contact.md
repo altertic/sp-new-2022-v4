@@ -14,6 +14,7 @@ locations:
 meta:
   description: Contacter l'équipe de Sport et Collection
   title: Contacter l'équipe de Sport et Collection
+  noindex: true
 ---
 # Contactez l'équipe de Sport et Collection
 

@@ -1,11 +1,11 @@
 {
-  "name": "yellowcake",
-  "HomePage": "https://yellowcake.netlify.com/",
-  "description": "An opinionated starter project for creating lightning-fast websites with Gatsby v2 and Netlify CMS v2",
-  "version": "2.0.0",
+  "name": "SportetCollection",
+  "HomePage": "https://sp-new-2022-v4.netlify.app/",
+  "description": "Template for the new version of Sport et Collection official website",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thriveweb/yellowcake"
+    "url": "https://github.com/altertic/sp-new-2022-v4"
   },
   "dependencies": {
     "@reach/router": "^1.2.1",

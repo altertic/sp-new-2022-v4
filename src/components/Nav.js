@@ -71,7 +71,7 @@ export class Navigation extends Component {
             <Logo />
           </Link>
           <div className="Nav--Links">
-            <NavLink to="/">Home</NavLink>
+            <NavLink to="/">Accueil</NavLink>
             <NavLink to="/components/">Components</NavLink>
             <div
               className={`Nav--Group ${
@@ -95,7 +95,7 @@ export class Navigation extends Component {
                 Blog
                 <div className="Nav--GroupLinks">
                   <NavLink to="/blog/" className="Nav--GroupLink">
-                    All Posts
+                    Toutes les News
                   </NavLink>
                   {subNav.posts.map((link, index) => (
                     <NavLink
@@ -110,7 +110,7 @@ export class Navigation extends Component {
               </span>
             </div>
             <NavLink to="/default/">Default</NavLink>
-            <NavLink to="/contact/">Contact</NavLink>
+            <NavLink to="/contact/">Contacts</NavLink>
           </div>
           <button
             className="Button-blank Nav--MenuButton"

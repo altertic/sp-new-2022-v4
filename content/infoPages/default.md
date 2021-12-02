@@ -1,44 +1,32 @@
 ---
 template: DefaultPage
-slug: default
-title: Default
-featuredImage: https://ucarecdn.com/7ec2ff8c-5ef7-4dd8-b551-baa44d114cc3/
+slug: concurrents
+title: Informations aux Concurrents participant à Sport & Collection
+featuredImage: https://ucarecdn.com/c633e423-8352-42fc-b310-eeb2f8c000df/
 meta:
-  description: test meta description
-  title: test meta title
+  description: Les Informations figurant sur cette pages sont spécifiquement
+    rédigées à l'attention des Concurrents engagés à Sport & Collection.
+  title: Infos pour les Concurrents engagés à Sport & Collection
+  noindex: true
 ---
 
-## This is the DefaultPage template
+## Sport & Collection vu par les Concurrents
 
-Paragraphs are separated by a blank line.
+L'événement, d’esprit GT, se déroule sur le circuit du Val de Vienne, 86150 – Le Vigeant, et accueille les automobiles classiques de compétition, de grand tourisme et de prestige, des ancêtres de course aux dernières hypercars pour des démonstrations par sessions de 25‐30 minutes.
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
+### Animations auxquelles peuvent participer les Concurrents
 
-### Unordered lists:
+Pour les Concurrents qui le souhaitent, sont listées ci-dessous les animations auxquelles il est possible de participer.
 
-- this one
-- that one
-- the other one
+* Une nocturne est organisée le vendredi, jusqu'à minuit.
 
-### Ordered lists:
+* Des plateaux de course peuvent également être organisés en fonction de la demande.
 
-1.  first item
-1.  second item
-1.  third item
+* Au côté des « *500 Ferrari contre le cancer* » toutes les **grandes marques de Sport et de prestige**, ***d'hier et d'aujourd'hui*** sont les bienvenues.
 
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
+* Un rallye touristique s'adresse, le samedi, aux concurrents peu intéressés par la piste.
 
-# Heading 1
+* Un concours d'élégance est organisé depuis 2021.
 
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+* Les Populaires de plus de 30 ans peuvent également permettre aux spectateurs de découvrir leurs charmes, en s'exposant au centre du circuit. 
+Il est également possible d'effectuer un rallye‐promenade le dimanche matin ainsi que de parader sur le circuit.

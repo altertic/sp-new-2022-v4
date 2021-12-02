@@ -26,13 +26,15 @@ const PageHeader = ({
           size="cover"
         />
       )}
-        <div className="PageHeader--Edition">{edition}</div>
-        <div className="PageHeader--Title">{title}</div>
+      <section className="container relative masthead">
+        <span className="PageHeader--Edition">{edition}</span>
+        <span className="PageHeader--Title">{title}</span>
         {subtitle && (
           <Content className="PageHeader--Subtitle" src={subtitle} />
         )}
-        <div className="PageHeader--Dates">{dates}</div>
-      </div>
+        <span className="PageHeader--Dates">{dates}</span>
+      </section>
+    </div>
   )
 }
 

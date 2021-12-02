@@ -3,7 +3,7 @@ import React from 'react'
 export default ({
   className = '',
   color = 'var(--secondary)',
-  opacity = 0.2,
+  opacity = 0.8,
   ...props
 }) => (
   <div

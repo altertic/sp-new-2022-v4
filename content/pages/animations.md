@@ -1,9 +1,9 @@
 ---
-template: ComponentsReferences
-slug: components-references
-title: References to the Components available to use
+template: AnimationsPage
+slug: animations
+title: References to the different animations offered at Sport et Collection.
 featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
-subtitle: This is the components references page subtitle.
+subtitle: This is the animations page subtitle.
 section1: >-
   ## This is a container component
 
@@ -40,5 +40,5 @@ gallery:
     title: Yellow Ice Cream
 meta:
   description: This is a meta description.
-  title: Components Page
+  title: Animations Page
 ---

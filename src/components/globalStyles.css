@@ -1,6 +1,6 @@
 :root {
-  --primary: #00c2bd;
-  --secondary: #000;
+  --primary: #cc0033;
+  --secondary: #003366;
   --lightGrey: whitesmoke;
   --midGrey: #cacaca;
   --darkGrey: #272727;
@@ -23,7 +23,7 @@
 }
 
 ::selection {
-  background: rgba(0, 194, 189, 0.6);
+  background: rgba(163, 44, 74, 0.6);
 }
 
 html {

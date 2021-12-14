@@ -1,7 +1,7 @@
 ---
 template: DefaultPage
 slug: concurrents
-title: Informations aux Concurrents participant à Sport & Collection
+title: Infos Concurrents
 featuredImage: https://ucarecdn.com/c633e423-8352-42fc-b310-eeb2f8c000df/
 meta:
   description: Les Informations figurant sur cette pages sont spécifiquement
@@ -10,7 +10,7 @@ meta:
   noindex: true
 ---
 
-## Sport & Collection vu par les Concurrents
+## Infos Sport & Collection pour les Concurrents
 
 L'événement, d’esprit GT, se déroule sur le circuit du Val de Vienne, 86150 – Le Vigeant, et accueille les automobiles classiques de compétition, de grand tourisme et de prestige, des ancêtres de course aux dernières hypercars pour des démonstrations par sessions de 25‐30 minutes.
 

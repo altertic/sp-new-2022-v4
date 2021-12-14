@@ -1,7 +1,7 @@
 ---
 template: DefaultPage
 slug: public
-title: Informations Pratiques pour les Visiteurs - Sport & Collection
+title: Infos Pratiques - Visiteurs
 featuredImage: https://ucarecdn.com/d00f64b6-5dad-4701-ad9d-bed219ee29fa/-/preview/-/enhance/45/
 meta:
   description: >-
@@ -16,8 +16,8 @@ meta:
 
 **Sport & Collection** « *500 Ferrari contre le cancer* » se déroule, depuis sa création, au *Circuit du Val de Vienne*.
 
-* Ce circuit automobile se trouve sur la commune de *Le Vigeant (86150)*, située à mi-chemin entre Poitiers et Limoges (RN 147, puis suivre la signalisation, le Circuit du Val de Vienne est fléché tout le long du parcours, quel que soit la direction d'origine).
-* Depuis Paris, A10 sortie Poitiers‐Nord (N°29), direction Limoges puis L'Isle‐Jourdain, circuit fléché après la 2ème portion de 4 voies ;
+* Ce circuit automobile se trouve sur la commune de *Le Vigeant (86150)*, située à mi-chemin entre Poitiers et Limoges (RN 147, puis suivre la signalisation, le Circuit du Val de Vienne est fléché tout le long du parcours, quelle que soit la direction d'origine).
+* Depuis Paris, A10 sortie Poitiers‐Nord (N°29), direction Limoges puis L'Isle‐Jourdain, circuit fléché après la 2<sup>ème</sup> portion de 4 voies ;
 * Depuis Bordeaux, à hauteur d'Angoulême prendre la bretelle de sortie direction Limoges et rouler en direction de Confolens, puis suivre la signalisation qui indique la direction du circuit aussitôt après avoir passé Confolens ;
 * Depuis Lyon et Centre, direction Montluçon puis Poitiers, circuit fléché à Bussière‐Poitevine.
 * Depuis La Rochelle, direction Niort puis Limoges, circuit fléché après Civray.

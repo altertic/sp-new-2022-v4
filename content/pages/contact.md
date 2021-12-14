@@ -4,13 +4,13 @@ slug: contact
 title: Contacts
 featuredImage: https://ucarecdn.com/cb983b64-2cc9-4993-9f48-25c0d532fe28/-/preview/-/enhance/50/
 subtitle: Sport & Collection
-address: Circuit du Val de Vienne, 86150 Le Vigeant
+address: Circuit du Val de Vienne, 2 La Longère, 86150 Le Vigeant
 phone: +33(0)5 49 39 34 25
 email: contact@sportetcollection.org
 locations:
-  - lat: "46.1978872"
-    lng: "0.6344863"
-    mapLink: ""
+  - lat: "46.197888"
+    lng: "0.6344866"
+    mapLink: https://goo.gl/maps/KMF4LjsQLLewn2yR9
 meta:
   description: Contacter l'équipe de Sport et Collection
   title: Contacter l'équipe de Sport et Collection

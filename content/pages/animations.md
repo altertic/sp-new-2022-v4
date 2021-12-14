@@ -1,9 +1,9 @@
 ---
 template: AnimationsPage
 slug: animations
-title: References to the different animations offered at Sport et Collection.
+title: Animations
 featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
-subtitle: This is the animations page subtitle.
+subtitle: 28<sup>ème Sport & Collection
 section1: >-
   ## This is a container component
 
@@ -41,4 +41,5 @@ gallery:
 meta:
   description: This is a meta description.
   title: Animations Page
+  noindex: true
 ---

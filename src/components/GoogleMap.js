@@ -10,8 +10,8 @@ if (process.env.GATSBY_NETLIFY_MAP_KEY) {
 class GoogleMap extends Component {
   static defaultProps = {
     center: {
-      lat: -28.0914483,
-      lng: 153.4425208
+      lat: 46.1978872,
+      lng: 0.6344863
     },
     zoom: 14
   }
@@ -25,7 +25,7 @@ class GoogleMap extends Component {
           defaultCenter={this.props.center}
           defaultZoom={this.props.zoom}
         >
-          <Marker lat={-28.0914483} lng={153.4425208} text={'Kreyser Avrora'} />
+          <Marker lat={46.1978872} lng={0.6344863} text={'Kreyser Avrora'} />
         </GoogleMapReact>
       </div>
     )

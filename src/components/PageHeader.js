@@ -10,12 +10,22 @@ const PageHeader = ({
   edition,
   subtitle,
   dates,
+  backgroundImage,
   large,
   className = ''
 }) => {
   if (large) className += ' PageHeader-large'
   return (
-    <section className={`PageHeader relative ${className} BackgroundImage`}>
+    <section className={`PageHeader relative ${className}`}>
+      {backgroundImage && (
+        <Image
+          background
+          resolutions="large"
+          src={backgroundImage}
+          alt={title}
+          size="cover"
+        />
+      )}
       <span className="PageHeader--Edition">{edition}</span>
       <span className="PageHeader--Title">{title}</span>
       {subtitle && (

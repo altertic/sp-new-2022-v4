@@ -22,12 +22,12 @@
 }
 
 .PageHeader--Title {
-  max-width: 35rem;
+  max-width: 50%;
   margin-top: 0;
   margin-right: auto!important;
   margin-left: auto!important;
   margin-bottom: 20px;
-  font-family: raleway,HelveticaNeue-CondensedBold,"Arial Narrow","Helvetica Neue",Arial,sans-serif;
+  font-family: "Friz Quadrata Std Medium", "Arial Narrow","Helvetica Neue",Arial,sans-serif;
   color: #f2f2f2;
   font-style: normal;
   font-weight: bold;
@@ -36,6 +36,7 @@
   line-height: 5rem;
   text-align: center;
   text-shadow: 0.5px 0.5px #333e51, 1px 1px #333e51, 1.5px 1.5px #333e51, 2px 2px #333e51, 2.5px 2.5px #333e51, 3px 3px #333e51, 3.5px 3.5px #333e51, 4px 4px #333e51, 4.5px 4.5px #333e51, 5px 5px #333e51, 5.5px 5.5px #333e51, 6px 6px #333e51, 6.5px 6.5px #333e51, 7px 7px #333e51;
+  z-index: 1;
 }
 
 .PageHeader--Subtitle {
@@ -44,30 +45,33 @@
   font-size: 3rem;
   color: #cc0033;
   text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.8);
+  z-index: 1;
 }
 
 .PageHeader--Edition {
   font-size: 4rem;
   margin-bottom: 0;
   color: #cc9966;
-  text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.8);
+  text-shadow: 0.5px 0.5px #333e51, 1px 1px #333e51, 1.5px 1.5px #333e51, 2px 2px #333e51, 2.5px 2.5px #333e51, 3px 3px #333e51, 3.5px 3.5px #333e51, 4px 4px #333e51, 4.5px 4.5px #333e51, 5px 5px #333e51, 5.5px 5.5px #333e51, 6px 6px #333e51, 6.5px 6.5px #333e51, 7px 7px #333e51;
+  z-index: 1;
 }
 
 .PageHeader--Dates {
   display: inline-block;
-  padding: 0.75rem 1.5rem;
+  padding: 0.55rem 1.05rem;
   margin: 0;
   font-size: 4rem;
-  background: #cc9966;
+  background: #cc003375;
   transition: background ease .25s;
   border-radius: 5px;
   border: none;
   text-decoration: none;
   color: #ffffff;
-  cursor: pointer;
+  cursor: none;
   text-align: center;
   -webkit-appearance: none;
   -moz-appearance: none;
+  z-index: 1;
 }
 .PageHeader--Dates:hover {
   background: #a32c4a;

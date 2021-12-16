@@ -1,18 +1,30 @@
 ---
 template: SinglePost
-title: Cat
+title: Plateaux Modernes
 status: Published
-date: '2018-03-28'
-featuredImage: >-
-  https://ucarecdn.com/69bcae44-f555-4b56-b08e-bd0f2013654a/-/crop/1634x1690/0,434/-/preview/
-excerpt: This is an excerpt of Post Two
+date: 2021-12-02
+featuredImage: https://ucarecdn.com/50c528be-0f2e-463a-8d4f-170ab39df29b/
+excerpt: Plateaux Modernes
 categories:
-  - category: Updates
+  - category: Animations
 meta:
-  description: test meta description
-  title: test meta title
+  description: Les Plateaux Modernes - Sport et Collection
+  title: Les Plateaux Modernes - Sport et Collection
+  noindex: true
 ---
+Plateaux de démonstration
 
-This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language. Be careful not to waste too much time reading placeholder text! This text isn’t going to remain here because it doesn't pertain to the website.
 
-This paragraph has been copied from a program that automatically generates paragraphs like this. It is useful for web designers to use placeholder text so they can easily see what different fonts look like on a realistic paragraph.
+
+* GT Racing / Le Mans 1986-2022 : GT de piste, Sport protos LM, Hypercars
+* GT Modernes 1991-2022
+* GT Light 1991-2022 (GT de moins de 1000kg)
+
+
+
+Les berlines de piste ou rallye ne sont pas admises, tout comme les SUV.
+
+
+
+Possibilité de participer à la nocturne pour les pilotes confirmés.
+ 

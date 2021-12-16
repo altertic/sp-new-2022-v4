@@ -3,6 +3,13 @@
   width: 100%;
 }
 
+.BackgroundImage {
+  position: absolute;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
 .BackgroundImage .Image {
   top: 0;
   left: 0;

@@ -1,57 +1,52 @@
 ---
 template: SinglePost
-title: Red
-status: Featured / Published
-date: '2018-03-27'
-featuredImage: 'https://ucarecdn.com/94633346-778b-4474-8039-b18280ec73a3/'
-excerpt: >-
-  Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam
-  interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus
-  est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
-  pellentesque, lacinia risus ut, imperdiet eros.
+title: Plateaux Historiques
+status: Published
+date: 2021-12-01
+featuredImage: https://ucarecdn.com/4c078638-f80d-42ba-9d5f-e522b526e1e3/
+excerpt: 5 Plateaux de démonstration sont organisés ainsi que, en 2022, 2
+  plateaux de course.
+gallery:
+  - image: https://ucarecdn.com/bd05f959-f385-4cc4-b30e-7e112062a1f4/
+    alt: Talbot Lago T26
+  - image: https://ucarecdn.com/d43ca340-c36e-4ad3-848d-07b4742faa2b/
+    alt: Matra 650
+  - image: https://ucarecdn.com/b2994d08-75ca-4ac6-b3b0-cc99f13950f2/
+    alt: Ferrari 512M
+  - image: https://ucarecdn.com/d34b5bcf-e34a-415d-ba0e-2a77c54128a3/
+    alt: Jaguar Type-D
+  - image: https://ucarecdn.com/6f78d479-bbee-47f6-919e-4706eb31fb80/
+    alt: Ferrari Dino 246
+  - image: https://ucarecdn.com/c9887c8a-c35d-4687-a952-e18d750c91e6/
+    alt: Lotus F1
 categories:
-  - category: News
+  - category: Animations
 meta:
-  canonicalLink: ''
-  description: test meta description
-  noindex: false
-  title: test meta title
+  canonicalLink: ""
+  description: Les Plateaux Historiques - Sport et Collection
+  noindex: true
+  title: Les Plateaux Historiques - Sport et Collection
 ---
-Paragraphs are separated by a blank line.
+## 5 Plateaux de démonstration sont organisés :
 
-![Test Image](https://ucarecdn.com/ac9898a0-413a-467b-95fa-0a9959c30710/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Id64silK_7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* Le Mans 1950-1965 : protos et GT des 24H du Mans et des courses d’endurance
+* Le Mans 1966-1985 : protos et GT des 24H du Mans et des courses d’endurance
+* F1, F3000, F2 jusqu’aux années 1990
+* VHC : roadsters et GT jusqu’à 1990
+* Grand Prix Avant-guerre et ancêtres de course d'avant 1914
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
 
-### Unordered lists:
 
-* this one
-* that one
-* the other one
+Possibilité de box ou de tentes, de participer à la nocturne du vendredi soir pour les Le Mans et VHC.
 
-### Ordered lists:
+Important : départ Le Mans pour le plateau Le Mans 1950-1965 le samedi à 16h.
 
-1. first item
-2. second item
-3. third item
 
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
 
-## Heading 2
+En 2022 : 2 plateaux de course sont organisés avec l'**Historic Grand Prix Cars Association de Londres** à raison de 2 courses par plateau, samedi et dimanche (qualifications le vendredi après-midi)
 
-# Heading 1
 
-## Heading 2
 
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+* Grand Prix moteur avant pré 1961, l'époque Juan Manuel Fangio
+* F1 moteur central pré 1966, l'époque Jim Clark

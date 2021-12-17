@@ -4,7 +4,6 @@ import { StaticQuery, graphql } from 'gatsby'
 import Meta from './Meta'
 import Nav from './Nav'
 import Footer from './Footer'
-import TopRightCorner from './TopRightCorner'
 
 import 'modern-normalize/modern-normalize.css'
 import './globalStyles.css'
@@ -72,8 +71,6 @@ export default ({ children, meta, title }) => {
               {...meta}
               {...data.settingsYaml}
             />
-
-            <TopRightCorner url="https://github.com/thriveweb/yellowcake" />
 
             <Nav subNav={subNav} />
 

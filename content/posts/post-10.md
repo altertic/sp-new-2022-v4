@@ -2,7 +2,7 @@
 template: SinglePost
 title: Plateaux Modernes
 status: Published
-date: 2021-12-02
+date: 2021-11-28
 featuredImage: https://ucarecdn.com/50c528be-0f2e-463a-8d4f-170ab39df29b/
 excerpt: Plateaux Modernes
 categories:

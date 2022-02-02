@@ -12,7 +12,7 @@ categories:
   - category: Animations
 meta:
   description: Les Plateaux Modernes - Sport et Collection
-  title: Les Plateaux Modernes - Sport et Collection
+  title: "3"
   noindex: true
 ---
 Plateaux de démonstration
